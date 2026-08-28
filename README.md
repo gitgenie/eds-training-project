@@ -1,9 +1,20 @@
-# Your Project's Title...
-Your project's description...
+# EDS training project
+
+A learning project built with Adobe Edge Delivery Services and document-based
+authoring.
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--eds-training-project--gitgenie.aem.page/
+- Live: https://main--eds-training-project--gitgenie.aem.live/
+
+## Completed work
+
+- [Cards block with date, image, and description styling](https://github.com/gitgenie/eds-training-project/commit/985f3af)
+- [Contact form with native validation](https://github.com/gitgenie/eds-training-project/commit/4cafdd9)
+- [Responsive side-menu block with linked content panels](https://github.com/gitgenie/eds-training-project/commit/6f9aa6c)
+- [Text/image/button importer transformation](https://github.com/gitgenie/eds-training-project/commit/14822c0)
+- [Adaptive Form setup notes](https://github.com/gitgenie/eds-training-project/commit/356779e)
+- [Commerce integration notes](https://github.com/gitgenie/eds-training-project/commit/73fd595)
 
 ## Documentation
 
