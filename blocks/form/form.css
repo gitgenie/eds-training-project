@@ -1,0 +1,33 @@
+.form-fields {
+  display: grid;
+  gap: 16px;
+  max-width: 600px;
+}
+
+.form-field {
+  display: grid;
+  gap: 8px;
+}
+
+.form-field label {
+  font-weight: 700;
+}
+
+.form-field input {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 12px;
+  border: 1px solid var(--dark-color);
+  border-radius: 2px;
+  font: inherit;
+}
+
+.form-fields button {
+  justify-self: start;
+  padding: 12px 24px;
+  border: 0;
+  background-color: var(--link-color);
+  color: var(--background-color);
+  cursor: pointer;
+  font: inherit;
+}
